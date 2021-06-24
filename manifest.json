@@ -1,0 +1,7 @@
+{
+    "name": "StorageLiftControl",
+    "description": "Carry-ins from sorter will not be transferred to the upper storage according to the automatic capacity limit.",
+    "version_number": "1.0.0",
+    "dependencies": [],
+    "website_url": "https://github.com/hetima/DSP_StorageLiftControl"
+}
